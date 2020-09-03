@@ -1,0 +1,580 @@
+Uri: https://dc2b.ru/about.html
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\about.html
+Content Type: text/html
+
+Uri: https://dc2b.ru/images/icon/logo.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\icon\logo.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/css/style.css
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\style.css
+Content Type: text/css
+
+Uri: https://dc2b.ru/
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\index.htm
+Content Type: text/html
+
+Uri: https://dc2b.ru/order.html
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\order.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/directcreditrus
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\directcreditrus.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/direct_credit/
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\direct_credit\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/DirectCredit4
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\DirectCredit4.html
+Content Type: text/html
+
+Uri: https://dc2b.ru/shop.html
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\shop.html
+Content Type: text/html
+
+Uri: https://lk.direct-credit.ru/
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://dc2b.ru/doc.html
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\doc.html
+Content Type: text/html
+
+Uri: https://dc2b.ru/js/libs/modernizr-2.5.3.min.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\modernizr-2.5.3.min.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/images/about-img.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\about-img.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/net-img.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\net-img.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b4.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b4.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b5.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b5.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b6.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b6.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b7.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b7.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b8.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b8.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b9.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b9.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b10.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b10.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b11.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b11.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b12.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b12.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b13.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b13.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b14.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b14.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b16.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b16.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/b15.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\b15.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-4.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-4.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-5.png?201807260958
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-5.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-6.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-6.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-7.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-7.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-8.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-8.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-9.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-9.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-11.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-11.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-12.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-12.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-14.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-14.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-16.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-16.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-18.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-18.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-15.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-15.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/partners-16.svg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-16.svg
+Content Type: image/svg+xml
+
+Uri: https://dc2b.ru/images/partners-17.svg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-17.svg
+Content Type: image/svg+xml
+
+Uri: https://dc2b.ru/images/partners-19.svg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\partners-19.svg
+Content Type: image/svg+xml
+
+Uri: https://dc2b.ru/images/clients-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-12.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-12.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-13.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-13.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-6.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-6.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-8.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-8.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-9.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-9.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-10.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-10.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/clients-14.svg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\clients-14.svg
+Content Type: image/svg+xml
+
+Uri: https://dc2b.ru/images/client-img.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\client-img.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/vacancy-img.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\vacancy-img.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/logo.svg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dc2b.ru/images/nav-img-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\nav-img-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/nav-img-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\nav-img-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/nav-img-3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\nav-img-3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/deus.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\deus.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/js/libs/jquery-1.9.1.min.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\jquery-1.9.1.min.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/libs/fancybox.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\fancybox.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/libs/slick.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\slick.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/libs/maskedInput.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\maskedInput.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/libs/scrolloverflow.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\scrolloverflow.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/libs/fullPage.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\libs\fullPage.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/js/script.js
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\js\script.js
+Content Type: application/javascript
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraBold.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraBold.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraBold.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraBold.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraBold.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraBold.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraBold-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Bold.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Bold.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Bold.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Bold.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/Circe-Bold.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Bold-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Regular.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Regular.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Regular.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Regular.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Regular.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/Circe-Regular.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Regular-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Light.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Light.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-Light.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Light.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-Light.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Light.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/Circe-Light.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-Light-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraLight.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraLight.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraLight.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraLight.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraLight.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraLight.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/Circe-ExtraLight.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\Circe-ExtraLight-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Bold.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Bold.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Bold.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Bold.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Bold.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Bold-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Medium.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Medium.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Medium.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Medium.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/GothamPro-Medium.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-Medium-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro.eot
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro.eot?
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dc2b.ru/css/fonts/GothamPro.woff2
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/css/fonts/GothamPro.woff
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro.woff
+Content Type: application/font-woff
+
+Uri: https://dc2b.ru/css/fonts/GothamPro.ttf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\css\fonts\GothamPro-1.bin
+Content Type: application/octet-stream
+
+Uri: https://dc2b.ru/images/sprite.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\sprite.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/bg-blue.jpg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\bg-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://dc2b.ru/images/tab-menu-icon-active.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\tab-menu-icon-active.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/login-bg.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\login-bg.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/icon/arr-u-h.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\icon\arr-u-h.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/icon/arr-d-h.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\icon\arr-d-h.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/white-bg.jpg
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\white-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dc2b.ru/images/index-img-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\index-img-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/index-tab-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\index-tab-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/index-tab-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\index-tab-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/index-tab-3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\index-tab-3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/index-img-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\index-img-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/order-img.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\order-img.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-4.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-4.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-5.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-5.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/pluses-6.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\pluses-6.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/options-1.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\options-1.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/options-2.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\options-2.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/options-3.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\options-3.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/options-4.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\options-4.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/images/options-5.png
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\images\options-5.png
+Content Type: image/png
+
+Uri: https://dc2b.ru/docs/Политика  обработки персональных данных.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Политика  обработки персональных данных.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/Порядок рассмотрения запросов и обращений в случае отзыва согласия на обработку ПД.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Порядок рассмотрения запросов и обращений в случае отзыва согласия на обработку ПД.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/Сводная ведомость результатов проведения СОУТ в ООО ДК Финанс.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Сводная ведомость результатов проведения СОУТ в ООО ДК Финанс.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/Сводная ведомость результатов проведения СОУТ в ООО ДИРЕКТ КРЕДИТ ЦЕНТР.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Сводная ведомость результатов проведения СОУТ в ООО ДИРЕКТ КРЕДИТ ЦЕНТР.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/Сводная ведомость результатов проведения СОУТ в ООО Директ Кредит.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Сводная ведомость результатов проведения СОУТ в ООО Директ Кредит.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/Сводная ведомость результатов проведения СОУТ в ООО АЛЬЯНС КРЕДИТ.pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\Сводная ведомость результатов проведения СОУТ в ООО АЛЬЯНС КРЕДИТ.pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/ООО Директ Кредит Центр (часть 2).pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\ООО Директ Кредит Центр (часть 2).pdf
+Content Type: application/pdf
+
+Uri: https://dc2b.ru/docs/ООО Директ Кредит (часть 2).pdf
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\docs\ООО Директ Кредит (часть 2).pdf
+Content Type: application/pdf
+
+Uri: https://de-us.ru/
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\index-2.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/45629760/1
+File Name: Z:\WEB\dc2b.ruabout\dc2b.ru\watch\45629760\1.gif
+Content Type: image/gif
+

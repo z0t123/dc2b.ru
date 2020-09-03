@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Директ Кредит. Личный кабинет. Авторизация</title>
+    <link rel="shortcut icon" href="/bitrix/templates/lk/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/assets-2.0/css/reset.css" />
+    <link rel="stylesheet" href="/assets-2.0/css/fonts.css" />
+    <link rel="stylesheet" href="/assets-2.0/css/all.css" />
+    <script type="text/javascript" src="/assets-2.0/js/libs/jquery-1.11.1.min.js"></script>
+
+    <!-- angular 1.5.8 -->
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-1.5.8.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-ui-bootstrap-tpls-2.1.1.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-animate.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-mask.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-ui-select.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-sanitize.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-wrapper-for-sweetalert.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-infiniteScroll.min.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-dc-accordion.js?201910181845"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-lvl-upload-file.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/libs/angular-dc-camera.js?201705221455"></script>
+
+    <!-- angular app files -->
+    <!-- main module -->
+    <script type="text/javascript" src="/assets-2.0/js/angular/dc.module.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/angular/dc.constants.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/angular/dc.services.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/angular/dc.directives.js"></script>
+    <script type="text/javascript" src="/assets-2.0/js/angular/dc.controllers.js"></script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/cache/css/lk/auth/page_83614357baea341fe00dcdb5171a28a6/page_83614357baea341fe00dcdb5171a28a6.css?159730990832329" type="text/css"  rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/cache/js/lk/auth/page_3d827f067278edf5805af5b9fc937944/page_3d827f067278edf5805af5b9fc937944.js?159730990845085"></script>
+
+</head>
+<body>
+<div class="b-page-wrapper">
+    <div class="left-side column">
+        <h2 class="company-name">Директ Кредит</h2>
+        <form action="/?login=yes" class="auth-fields" method="post" name="form_auth">
+            <div class="error-block">
+                <div class="error-pink">
+                    <div class="error-text">
+                                                    Пара логин-пароль не найдена. Попробуйте еще раз.<br>
+                            Возможно у вас выбрана другая раскаладка клавиатуры или нажата клавиша «CapsLock»
+                                                </div>
+                </div>
+                <div class="active-tab"></div>
+            </div>
+
+            <input type="hidden" name="AUTH_FORM" value="Y" />
+            <input type="hidden" name="TYPE" value="AUTH" />
+                            <input type="hidden" name="backurl" value="/" />
+                        
+            <div><input name="USER_LOGIN" placeholder="Логин" type="text" value="" /></div>
+            <div><input name="USER_PASSWORD" placeholder="Пароль" type="password" value="" /></div>
+            <label class="user_agreement">
+                <input type="checkbox" name="check_agreement" checked>
+                <span>Я принимаю условия <a class="js-user-agreement" href="#popUp_User_Agreement">пользовательского соглашения</a></span>
+            </label>
+
+            <div id="popUp_User_Agreement" class="popUp popup-user-agreement">
+                <div class="b-popup_close j-popup_close"></div>
+                <div class="b-popup-wrapper wrapper-user-agreement" style="padding: 20px; padding-right: 40px;">
+                    <p>
+                        <span class="bold">Пользовательское соглашение на использование сервиса системы «Директ Кредит»</span>
+                    </p>
+                    <p>
+                        <span class="bold">Общие положения</span>
+                    </p>
+                    <ul>
+                        <li>
+                            1. Настоящее Пользовательское соглашение (далее -Соглашение) является документом,
+                            регулирующим правила пользования сервисом системы «Директ Кредит» (далее – «Система»)
+                            физическим лицом (далее – «Пользователем»), правомерно получившим и обладающим правом его
+                            использования.
+                        </li>
+                        <li>
+                            2. Пользователь соглашается с тем, что все исключительные права на Систему принадлежат и
+                            сохраняются за ООО «Директ Кредит» (далее – «Правообладатель»)
+                        </li>
+                        <li>
+                            3. Система дает возможность обрабатывать электронные заявки от физических лиц на выдачу
+                            банками кредита.
+                        </li>
+                        <li>
+                            4. Пользователь, используя Систему, подтверждает свое ознакомление и полное согласие с
+                            условиями настоящего Соглашения.
+                        </li>
+                        <li>
+                            5. Пользователь, не согласный с условиями Соглашения полностью или в части, обязан
+                            прекратить любое дальнейшее использование Системы.
+                        </li>
+                    </ul>
+                    <p>
+                        <span class="bold">Условия пользования Системой</span>
+                    </p>
+                    <ul>
+                        <li>
+                            6. Пользователь обязуется пользоваться Системой только в целях и способом его
+                            функционального назначения.
+                        </li>
+                        <li>
+                            7. Пользователь обязуется пользоваться Системой только под предоставленными ему
+                            Правообладателем учетными данными (персональный логин и пароль).
+                        </li>
+                        <li>
+                            8. Принимая условия настоящего Соглашения Пользователь дает свое согласие на обработку своих
+                            персональных данных Правообладателем.
+                        </li>
+                        <li>
+                            9. Пользователь Системы обязуется обеспечить конфиденциальность учетных данных и соглашается
+                            с тем, что все действия, совершенные в Системе под его учетными данными считаются
+                            совершенными от его имени, имеющим законное право на совершение таких действий.
+                        </li>
+                        <li>
+                            10. Пользователь используя Систему соглашается с тем что, как лицо, имеющее доступ к
+                            персональным данным, самостоятельно несет ответственность за соблюдение требований 152-ФЗ «О
+                            персональных данных» по защите и обработке персональных данных потенциальных заемщиков и
+                            соблюдение Политики по обработке персональных данных указанных www.dc2b.ru , в том числе, но
+                            не ограничиваясь, обязуется:
+                            <ul>
+                                <li>
+                                    - Получать письменное согласие на обработку персональных данных от каждого клиента,
+                                    желающего получить кредит по форме «Анкета-Заявление» формируемой в Системе.
+                                </li>
+                                <li>
+                                    - Хранить и передавать персональные данные Клиента только в сроки и в порядке
+                                    необходимом для достижения целей обработки персональных данных.
+                                </li>
+                                <li>
+                                    - Не хранить персональные данные на локальном компьютере и не передавать их по
+                                    электронной почте.
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            11. Пользователь обязуется по требованию Клиента, его представителя, Правообладателя или
+                            любого третьего лица предоставлять свой действующий рабочий адрес e-mail и рабочий телефон.
+                        </li>
+                        <li>
+                            12. Пользователь обязуется при обнаружении фактов указывающих на незаконные действия
+                            направленные на нарушение прав и законных интересов Субъектов персональных данных, а так же
+                            при подозрении на совершение таких действий, либо других действий, содержащих признаки
+                            мошенничества, немедленно сообщить в службу безопасности оператора системы по тел.
+                            8-495-215-56-21 добавочный 1121 и на электронную почту: dsb@dc2b.ru и одновременно
+                            прекратить использование системы. Пользователь соглашается с тем что несет риск
+                            неблагоприятных последствий при нарушении условий настоящего пункта.
+                        </li>
+                        <li>
+                            13. Пользователь Системы обязуется разрегистрироваться в Системе при каждом оставлении
+                            рабочего места, держать в тайне и не передавать учетные данные другому лицу и не записывать
+                            их в местах свободного доступа третьих лиц. Пользователи, при нарушении условий настоящего
+                            пункта, берет на себя риск несанкционированного доступа в Систему.
+                        </li>
+                    </ul>
+                    <p>
+                        <span class="bold">Ответственность</span>
+                    </p>
+                    <ul>
+                        <li>
+                            14. Пользователь предупрежден, что при использовании в Системе не принадлежащих ему учетных
+                            данных и/или совершении действий в системе от имени 3-го лица в нарушение условий настоящего
+                            соглашения, он несет ответственность согласно действующего законодательства, в том числе
+                            согласно "Уголовного кодекса Российской Федерации" от 13.06.1996 N 63-ФЗ, "Кодекса
+                            Российской Федерации об административных правонарушениях" от 30.12.2001 N 195-ФЗ)
+                        </li>
+                        <li>
+                            15. При нарушении Пользователем условий настоящего Соглашения Правообладатель имеет право в
+                            одностороннем порядке прекратить доступ Пользователя к Системе и ее дальнейшее им
+                            использование.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="buttons">
+                <button class="enter" name="Login" type="submit">Войти</button>
+                <a class="forgot-password" href="/?forgot_password=yes">Забыли пароль?</a>
+            </div>
+        </form>
+
+        <div class="copyright">&copy; ООО Директ Кредит, 2011-2020</div>
+    </div>
+    <div class="right-side column">
+        <div class="reg-block">
+            <div class="laptop"></div>
+            <div class="reg-text">Начните работать сейчас!</div>
+            <div class="buttons">
+                <a class="registration" href="http://dc2b.ru" target="_blank">Узнать больше</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+            try {
+            document.form_auth.USER_LOGIN.focus();
+        } catch (e) {
+        }
+    </script></body>
+</html>
